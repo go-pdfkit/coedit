@@ -1,0 +1,8 @@
+github.com/go-crdt/crdt v0.31.0 h1:CTi+lo0bjsJv3F09CR/AdILQtWEWmzbDQ+S/6HNBOMU=
+github.com/go-crdt/crdt v0.31.0/go.mod h1:vbfvns9B9FUaMi2sPKzMYttKmbxfgO7EK3Yu82SrlYw=
+github.com/go-deltasync/chunk v0.2.0 h1:2w4zBBXbrZwsBJAMnBCstPTj4YNeUvHjvY0qAFA1yuE=
+github.com/go-deltasync/chunk v0.2.0/go.mod h1:lstvS05YsLMRBKrvE75vOXm07cMMRVQJfhdYPiR04OE=
+github.com/go-pdfkit/ops v0.4.0 h1:2WeYwDhN2OyoYtjYCdgm7gWGVNmiu+8OwOKEhyb3Cp0=
+github.com/go-pdfkit/ops v0.4.0/go.mod h1:X89phxHICCYl6+zn3L6YXH3mRLBlsLdPYuDCryGLXzI=
+github.com/go-pdfkit/reader v0.4.0 h1:qPbNZSO+Xl+4NBvQoV1PYt7HlqHaEAQ1tUc6/IL8JAU=
+github.com/go-pdfkit/reader v0.4.0/go.mod h1:fQFOVfCMUui1AdvD4qhimdyvvNr9KvvJ1S7IuKZjyV8=
