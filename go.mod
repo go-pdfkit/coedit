@@ -6,7 +6,7 @@ require (
 	github.com/go-crdt/crdt v0.31.0
 	github.com/go-deltasync/chunk v0.2.0
 	github.com/go-pdfkit/ops v0.7.0
-	github.com/go-pdfkit/reader v0.5.0
+	github.com/go-pdfkit/reader v0.6.0
 )
 
 require (
