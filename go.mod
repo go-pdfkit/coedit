@@ -5,6 +5,13 @@ go 1.26.4
 require (
 	github.com/go-crdt/crdt v0.31.0
 	github.com/go-deltasync/chunk v0.2.0
-	github.com/go-pdfkit/ops v0.4.0
-	github.com/go-pdfkit/reader v0.4.0
+	github.com/go-pdfkit/ops v0.6.0
+	github.com/go-pdfkit/reader v0.4.2
+)
+
+require (
+	github.com/go-opentype/fonts v0.9.0 // indirect
+	github.com/go-opentype/opentype v0.9.0 // indirect
+	github.com/go-pdfkit/forms v0.2.1 // indirect
+	github.com/go-pdfkit/pdffont v0.3.0 // indirect
 )
