@@ -57,5 +57,14 @@ func (l *Local) Composite() *crdt.Composite { return l.doc }
 // two people who have been editing apart do when they meet, and it is the same
 // merge a session does — there is only one.
 func (l *Local) Merge(other *Local) error {
-	return l.doc.Apply(other.doc.OpsSince(l.doc.Version())...)
+	// The other replica refuses if it has collected below where this one
+	// stands: what it gave back is not in its differences any more, so it
+	// cannot say what this one is missing. Such a pair is merged from the
+	// other side, or through their snapshots; it is not something this can
+	// paper over.
+	ops, err := other.doc.OpsSince(l.doc.Version())
+	if err != nil {
+		return err
+	}
+	return l.doc.Apply(ops...)
 }
