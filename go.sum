@@ -4,6 +4,8 @@ github.com/ajroetker/go-jpeg2000 v0.0.2 h1:ni8brffZrci4Kacx3nM5d92ipmTDfak84KgHY
 github.com/ajroetker/go-jpeg2000 v0.0.2/go.mod h1:7ld88W47lZy0x8gRQesRGAonDPOpr6ev8rckjCAfbzE=
 github.com/go-crdt/crdt v0.31.0 h1:CTi+lo0bjsJv3F09CR/AdILQtWEWmzbDQ+S/6HNBOMU=
 github.com/go-crdt/crdt v0.31.0/go.mod h1:vbfvns9B9FUaMi2sPKzMYttKmbxfgO7EK3Yu82SrlYw=
+github.com/go-crdt/crdt v0.35.0 h1:8IGUNQo7+S9MfdTFX2miW2l+DxYClDyg+4qmYAmXpnY=
+github.com/go-crdt/crdt v0.35.0/go.mod h1:vbfvns9B9FUaMi2sPKzMYttKmbxfgO7EK3Yu82SrlYw=
 github.com/go-deltasync/chunk v0.2.0 h1:2w4zBBXbrZwsBJAMnBCstPTj4YNeUvHjvY0qAFA1yuE=
 github.com/go-deltasync/chunk v0.2.0/go.mod h1:lstvS05YsLMRBKrvE75vOXm07cMMRVQJfhdYPiR04OE=
 github.com/go-gfx/gfx v0.16.0 h1:HYlQrz2kHm+Vg1aBotnO6O9yfadNqWVrPK+b0uqxtKg=
