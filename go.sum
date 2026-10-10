@@ -1,7 +1,7 @@
 github.com/ajroetker/go-highway v0.0.4 h1:RDQo+9OhTXI6BFctLo+5gYpHNbb92VYJ0ObnR4l6xAQ=
 github.com/ajroetker/go-highway v0.0.4/go.mod h1:C/zYPNSSpOaraejY89FUTZTyQNEhi5+rEbU0LjlqJeU=
-github.com/go-crdt/crdt v0.56.2 h1:lNZDo+ZaS34EEow2PT3nInwL7qJbzDl20NQ/vSUP+xI=
-github.com/go-crdt/crdt v0.56.2/go.mod h1:pJLSxNxbzPptCmT81aAYz7Jx/XLE02kgTnMR1QTFaik=
+github.com/go-crdt/crdt v0.57.0 h1:sNLDTVCEnSb20gm77BUuYav8dzj5krmly/z9O7eRMCo=
+github.com/go-crdt/crdt v0.57.0/go.mod h1:zdVTTDLGV5JYAoTJDqCivcAT+/B5gGebDsVd8QNZpVs=
 github.com/go-deltasync/chunk v0.3.0 h1:Lq9ynhjyrrMAvJXb88tQthXT2PDMZrQVj5yXURP5oEM=
 github.com/go-deltasync/chunk v0.3.0/go.mod h1:9qjTVThG8v0WX/RSo/qkLWfeeMchAAA9P2IQGLTQs9Q=
 github.com/go-gfx/gfx v0.34.0 h1:K46srusNnZls/xkmJRvxpBajlptgrXc6d3exa4ZxhoA=
