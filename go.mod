@@ -1,12 +1,12 @@
 module github.com/go-pdfkit/coedit
 
-go 1.27.2
+go 1.27.4
 
 require (
-	github.com/go-crdt/crdt v0.57.0
+	github.com/go-crdt/crdt v0.59.0
 	github.com/go-deltasync/chunk v0.3.0
 	github.com/go-pdfkit/ops v0.38.1
-	github.com/go-pdfkit/reader v0.11.0
+	github.com/go-pdfkit/reader v0.20.0
 )
 
 require (
